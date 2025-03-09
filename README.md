@@ -5,6 +5,6 @@ We are a scientific research group at the Institute of Biological Sciences, Fede
 
 This space hosts the open-source code, tools, and pipelines developed and used in our cutting-edge research. Here, you’ll find resources for data analysis, computational models, and experimental protocols designed to promote transparency, reproducibility, and collaboration in neuroscience.
 
-We believe in the power of open science! Feel free to explore, adapt, or contribute to our projects. If you have questions or collaboration ideas, reach out to us via email () or visit our institutional website.
+We believe in the power of open science! Feel free to explore, adapt, or contribute to our projects. If you have questions or collaboration ideas, email us or visit our institutional website.
 
 Together, let’s decode the complexities of the brain. 
